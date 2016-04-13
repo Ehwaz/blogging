@@ -4,7 +4,7 @@
    * Post 제목(&lt;h3>) 글꼴이 Georgia로 되어 있어 한글 글자가 이상하게 나온다.  
    이 [포스트](http://valleyofwind.tumblr.com/post/47005704523/tumblr%EC%97%90-%EA%B5%AC%EA%B8%80-%EC%9B%B9%ED%8F%B0%ED%8A%B8-%EB%82%98%EB%88%94%EA%B3%A0%EB%94%95-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0) 참고하여 나눔명조로 변경. 사이즈는 28px/1.6
    * Code highlighting을 위해 [링크](http://ramyabot.tumblr.com/post/139379919001/tumblr-code-highlighting) 참조하여 code-prettify 적용.
-   * 너비 700px로 변경("wrapper" div 속성).
+   * 너비 850px로 변경("wrapper" div 속성).
    * 블로그 제목 폰트 사이즈 40px로 변경.
    * Archive 링크가 없어서 메뉴 바에 추가.
    * &lt;h4> 태그 크기가 본문과 같게 나와서 아래 css 추가.  
