@@ -14,6 +14,14 @@
        margin-bottom: 7px;
      }
     ```
+   * 아래 css로 code-prettify 폰트 설정.
+   ```css
+   .prettyprint {
+        font-family: Consolas, Monaco, "Courier New", monospace;
+        font-size: 14px;
+    }
+   ```
+   * 댓글 창 추가: [Disqus](https://disqus.com) 가입 후 ehwaz-dev-log로 댓글 페이지 만든 뒤 Tumblr theme에 입력 (무지 쉽다!)
 
 
 * Markdown 관련
