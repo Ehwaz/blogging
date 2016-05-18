@@ -19,7 +19,7 @@ Sorting [알고리즘](https://github.com/Ehwaz/ProblemSolving/tree/master/PSInJ
 (아래 SolutionTest 클래스의 SOLUTION_TO_TEST 객체 참고)
 
 아래 코드는 수정된 템플릿의 문제 풀이 클래스와 테스트 클래스다.   
-전체 코드는 Github [저장소](https://github.com/Ehwaz/ProblemSolving/tree/master/PSInJava/src/ehwaz/problem_solving/template)에서 확인할 수 있다.
+전체 코드는 Github [저장소](https://github.com/Ehwaz/ProblemSolvingTemplate/tree/master/Java_IntelliJ)에서 확인할 수 있다.
 
 <pre><code class="prettyprint lang-java linenums">public class Solution {
     public static void solveProb(InputStream istream) {
